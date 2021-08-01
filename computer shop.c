@@ -107,7 +107,7 @@ int menu(){
     printf("\n\t\t\t\t\t8. monitor\n\t\t\t\t\t");
     printf("\n\t\t\t\t\t9. powersupply\n\t\t\t\t\t");
     printf("\n\t\t\t\t\t10. waterblock\n\t\t\t\t\t");
-    printf("\n\t\t\t\t\t11. Receit\n\t\t\t\t\t");
+    printf("\n\t\t\t\t\t11. Receipt\n\t\t\t\t\t");
     printf("\n\t\t\t\t\t12. exit\n\t\t\t\t\t");
     printf("\n\t\t\t\t   Please enter choose the number:  ");
     scanf("%d",&choose);
